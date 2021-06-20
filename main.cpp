@@ -13,6 +13,7 @@ int partition (int[],int,int,bool);
 void quickSort(int[], int, int,bool);
 void bubbleSort(int[], int,bool);
 void display();
+
 void redisplay();
 
 
